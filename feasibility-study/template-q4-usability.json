@@ -1,0 +1,136 @@
+{
+    "title": "アンケート・Ａ４",
+    "introduction": "今回のゲームのプレイ中にどのように感じたかお答えください。このアンケートは匿名ですので、安心して正直にお答えください。",
+    "scales":
+    {
+        "acquiescence": ["全く同意できない", "同意できない", "どちらともいえない", "同意できる", "非常に同意できる"],
+        "frequency": ["全くなかった", "滅多になかった", "時々あった", "よくあった", "とても頻繁にあった"]
+    },
+    "questions": [
+        {
+            "category": "Smartphone", "type": "Positive", "scale": "frequency",
+            "en": "I carried the smartphone around with me.",
+            "ja": "外出する際にスマートフォンを身に付けていた。"
+        },
+        {
+            "category": "Smartphone", "type": "Negative", "scale": "frequency",
+            "en": "I forgot the smartphone existed.",
+            "ja": "スマートフォンを忘れたことがあった。"
+        },
+        {
+            "category": "Smartphone", "type": "Positive", "scale": "frequency",
+            "en": "I remembered to charge the phone at night.",
+            "ja": "夜にスマートフォンを充電することを覚えていた。"
+        },
+        {
+            "category": "Smartphone", "type": "Positive", "scale": "acquiescence",
+            "en": "I was able to learn the basic operation of the smartphone (turn it on, unlock the screen, open the game, go to the previous screen and go to the home screen).",
+            "ja": "スマートフォンの基本的な操作ができるようになった（電源を入れる、画面のロックを解除する、ゲームを起動する、前の画面に戻る、ホーム画面に戻る）。"
+        },
+        {
+            "category": "Smartphone", "type": "open",
+            "en": "Could you please tell us if there was anything annoying or difficult about using the smartphone?",
+            "ja": "スマートフォンの使い方について難しかったことや改善点があれば自由にお書き下さい。"
+        },
+        {
+            "category": "Learning", "type": "Positive", "scale": "acquiescence",
+            "en": "I think it's easy to learn how to play the game.",
+            "ja": "ゲームのやり方は理解しやすかった。"
+        },
+        {
+            "category": "Learning", "type": "Negative", "scale": "frequency",
+            "en": "I needed to consult the manual to play the game.",
+            "ja": "ゲームのやり方を理解するためにマニュアルを見る必要があった。"
+        },
+        {
+            "category": "Interface", "type": "Positive", "scale": "acquiescence",
+            "en": "I feel comfortable with the game controls.",
+            "ja": "ゲームのやり方に慣れた。"
+        },
+        {
+            "category": "Interface", "type": "Negative", "scale": "acquiescence",
+            "en": "The game controls are confusing.",
+            "ja": "まだゲームのやり方がわからない。"
+        },
+        {
+            "category": "Interface", "type": "Positive", "scale": "frequency",
+            "en": "The controls behaved as I expected.",
+            "ja": "思い通りにゲームできた。"
+        },
+        {
+            "category": "Interface", "type": "Negative", "scale": "frequency",
+            "en": "I didn't know how to do something inside the game.",
+            "ja": "ゲームの中で、したいことをどのようにすればできるのかわからなかった。"
+        },
+        {
+            "category": "Interface", "type": "Positive", "scale": "acquiescence",
+            "en": "I feel confident using the game controls.",
+            "ja": "ゲームの操作に自信がある。"
+        },
+        {
+            "category": "Interface", "type": "Negative", "scale": "frequency",
+            "en": "The game took a long time to respond.",
+            "ja": "操作に対する反応が悪かった。"
+        },
+        {
+            "category": "Goals", "type": "Positive", "scale": "acquiescence",
+            "en": "I understood the rules of the game.",
+            "ja": "ゲームのルールを理解した。"
+        },
+        {
+            "category": "Goals", "type": "Negative", "scale": "frequency",
+            "en": "I didn't know what I was supposed to do in the game.",
+            "ja": "ゲームで何をすべきかわからなかった。"
+        },
+        {
+            "category": "Goals", "type": "Positive", "scale": "acquiescence",
+            "en": "I understood what I had to do to win the game.",
+            "ja": "ゲームで目的を達成するためにどうすればよいか理解できた。"
+        },
+        {
+            "category": "Goals", "type": "Negative", "scale": "frequency",
+            "en": "I couldn't decide my next goal while playing.",
+            "ja": "次に何をすれば良いかわからなくなることがあった。"
+        },
+        {
+            "category": "Feedback", "type": "Positive", "scale": "frequency",
+            "en": "I had all the information I needed to achieve my goals.",
+            "ja": "目的を達成するために必要となる情報は与えられていた。"
+        },
+        {
+            "category": "Feedback", "type": "Negative", "scale": "frequency",
+            "en": "The information on the screen made no sense.",
+            "ja": "画面上の情報はあまり意味が無かった。"
+        },
+        {
+            "category": "Aesthetics", "type": "Positive", "scale": "acquiescence",
+            "en": "I like the visual style of the game.",
+            "ja": "ゲームの見た目が好きだ。"
+        },
+        {
+            "category": "Aesthetics", "type": "Negative", "scale": "acquiescence",
+            "en": "The game graphics are not suitable for the game's theme.",
+            "ja": "ゲームの見た目は、このゲームに合っていない。"
+        },
+        {
+            "category": "Aesthetics", "type": "Positive", "scale": "acquiescence",
+            "en": "I liked the game music.",
+            "ja": "ゲームの音楽が好きだ。"
+        },
+        {
+            "category": "Aesthetics", "type": "Negative", "scale": "acquiescence",
+            "en": "The game music was annoying.",
+            "ja": "ゲームの音楽が煩わしいと感じた。"
+        },
+        {
+            "type": "open",
+            "en": "Could you please tell us if there was anything annoying or difficult about this game?",
+            "ja": "ゲームについて困ったことや改善点があれば自由にお書き下さい。"
+        },
+        {
+            "type": "open",
+            "en": "Could you please tell us if there was anything you really liked about this game?",
+            "ja": "このゲームで良かった点があれば自由にお書き下さい。"
+        }
+    ]
+}

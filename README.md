@@ -4,7 +4,7 @@
 
 ## Data
 
-The data under directory 'feasibility-study' is related to the initial evaluation of the game [2].
+The data under directory [feasibility-study](feasibility-study) is related to the initial evaluation of the game [2].
 
 ## References
 

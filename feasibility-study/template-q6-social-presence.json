@@ -1,0 +1,96 @@
+{
+    "title": "アンケート・Ａ６",
+    "introduction": "今回のゲームのプレイ中にどのように感じたかお答えください。このアンケートは匿名ですので、安心して正直にお答えください。",
+    "scales":
+    {
+        "frequency": ["全くなかった", "滅多になかった", "時々あった", "よくあった", "とても頻繁にあった"]
+    },
+    "questions":
+    [
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I empathized with the other(s).",
+            "ja": "他のユーザと共感した。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "My actions depended on the other(s) actions.",
+            "ja": "自分の行動は他のユーザの行動に依存していた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "The other's actions were dependent on my actions.",
+            "ja": "他のユーザの行動は自分の行動に依存していた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I felt connected to the other(s).",
+            "ja": "他のユーザとつながりがあると感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "The other(s) paid close attention to me.",
+            "ja": "他のユーザが自分の操作に注意を払っていると感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I paid close attention to the other(s).",
+            "ja": "自分が他のユーザに注意を払っていると感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I felt jealous about the other(s).",
+            "ja": "他のユーザに嫉妬を感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I found it enjoyable to be with the other(s).",
+            "ja": "他のユーザと一緒にいるのが楽しいと感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "When I was happy, the other(s) was(were) happy.",
+            "ja": "自分が嬉しかったとき、他のユーザも嬉しいと思っていると感じた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "When the other(s) was(were) happy, I was happy.",
+            "ja": "他のユーザが嬉しいと思っていると感じたとき、自分も嬉しかった。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I influenced the mood of the other(s).",
+            "ja": "他のユーザの気分に影響を与えた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I was influenced by the other(s) moods.",
+            "ja": "他のユーザの気分から影響を受けた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I admired the other(s).",
+            "ja": "他のユーザを称賛した。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "What the other(s) did affected what I did.",
+            "ja": "他のユーザの行動が自分の行動に影響を与えた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "What I did affected what the other(s) did.",
+            "ja": "自分の行動が他のユーザの行動に影響を与えた。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I felt revengeful.",
+            "ja": "復讐したい気持ちになった。"
+        },
+        {
+            "category": "Social", "scale": "frequency",
+            "en": "I felt schadenfreude (malicious delight).",
+            "ja": "他のユーザが失敗したときに嬉しい気持ちになった。"
+        }
+    ]
+}

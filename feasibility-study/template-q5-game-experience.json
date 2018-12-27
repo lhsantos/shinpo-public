@@ -1,0 +1,230 @@
+{
+    "title": "アンケート・Ａ５",
+    "introduction": "今回のゲームのプレイ中にどのように感じたかお答えください。このアンケートは匿名ですので、安心して正直にお答えください。",
+    "scales":
+    {
+        "acquiescence": ["全く同意できない", "同意できない", "どちらともいえない", "同意できる", "非常に同意できる"]
+    },
+    "questions": [
+        {
+            "category": "Story", "type": "Positive", "scale": "acquiescence",
+            "en": "I found the game theme (Japanese shrines) interesting.",
+            "ja": "神社をゲームの題材にすることに面白さを感じた。"
+        },
+        {
+            "category": "Story", "type": "Negative", "scale": "acquiescence",
+            "en": "I didn't like the theme of this game.",
+            "ja": "神社をゲームの題材にすることは不適切と感じた。"
+        },
+        {
+            "category": "Graphics", "type": "Positive", "scale": "acquiescence",
+            "en": "The game graphics were visually appealing.",
+            "ja": "ゲームの見た目は好ましかった。"
+        },
+        {
+            "category": "Graphics", "type": "Negative", "scale": "acquiescence",
+            "en": "The game graphics looks weird.",
+            "ja": "ゲームの見た目は好ましくなかった。"
+        },
+        {
+            "category": "Graphics", "type": "Positive", "scale": "acquiescence",
+            "en": "The game graphics fit the mood or style of the game.",
+            "ja": "ゲームの見た目がゲームの世界観に合っていた。"
+        },
+        {
+            "category": "Graphics", "type": "Negative", "scale": "acquiescence",
+            "en": "The graphics were inappropriate for the type of game.",
+            "ja": "ゲームの見た目がゲームの世界観を表すには不適切だった。"
+        },
+        {
+            "category": "Graphics", "type": "Positive", "scale": "acquiescence",
+            "en": "I liked the avatar pictures in the game.",
+            "ja": "ゲームのアバター画像は好ましかった。"
+        },
+        {
+            "category": "Graphics", "type": "Negative", "scale": "acquiescence",
+            "en": "The avatar cannot be located in the interface easily.",
+            "ja": "アバター画像を自分の画像として簡単に設定できなかった。"
+        },
+        {
+            "category": "Immersion", "type": "Positive", "scale": "acquiescence",
+            "en": "When playing, I was totally concentrated on what I was doing.",
+            "ja": "ゲームのプレイ中、ゲームに集中していた。"
+        },
+        {
+            "category": "Immersion", "type": "Negative", "scale": "acquiescence",
+            "en": "When playing, I was often distracted by things around me.",
+            "ja": "ゲームのプレイ中、周囲が気になってゲームに集中できなかった。"
+        },
+        {
+            "category": "Immersion", "type": "Positive", "scale": "acquiescence",
+            "en": "When playing, I lost track of time.",
+            "ja": "ゲームのプレイ中、時間を忘れていた。"
+        },
+        {
+            "category": "Immersion", "type": "Negative", "scale": "acquiescence",
+            "en": "Sometimes I forgot the game existed.",
+            "ja": "時々、ゲームの存在を忘れていた。"
+        },
+        {
+            "category": "Immersion", "type": "Positive", "scale": "acquiescence",
+            "en": "Whenever I stopped playing the game, I can't wait to start playing it again.",
+            "ja": "ゲームをやめたときはいつでも、またすぐにゲームをはじめたいと思った。"
+        },
+        {
+            "category": "Immersion", "type": "Negative", "scale": "acquiescence",
+            "en": "I don't feel like playing this game again.",
+            "ja": "今回のゲームをもう一度やりたいと思わない。"
+        },
+        {
+            "category": "Enjoyment", "type": "Positive", "scale": "acquiescence",
+            "en": "I enjoyed playing the game.",
+            "ja": "ゲームを楽しめた。"
+        },
+        {
+            "category": "Enjoyment", "type": "Negative", "scale": "acquiescence",
+            "en": "The game is boring.",
+            "ja": "ゲームは退屈だった。"
+        },
+        {
+            "category": "Enjoyment", "type": "Positive", "scale": "acquiescence",
+            "en": "Playing the game is rewarding in itself.",
+            "ja": "ゲームをすることに価値があると思った。"
+        },
+        {
+            "category": "Enjoyment", "type": "Negative", "scale": "acquiescence",
+            "en": "I do not like this type of game.",
+            "ja": "このような種類のゲームは好きではない。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Positive", "scale": "acquiescence",
+            "en": "I felt stimulated.",
+            "ja": "刺激を受けた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt frustrated.",
+            "ja": "不満を感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Positive", "scale": "acquiescence",
+            "en": "I felt that I was learning.",
+            "ja": "ゲームから何かを学んでいると感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Negative", "scale": "acquiescence",
+            "en": "I found it a waste of time.",
+            "ja": "時間の無駄であると感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Positive", "scale": "acquiescence",
+            "en": "I was good at it.",
+            "ja": "上手にゲームができた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt it tiresome.",
+            "ja": "面倒だと感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Positive", "scale": "acquiescence",
+            "en": "I felt energized.",
+            "ja": "やる気が出るのを感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt regret.",
+            "ja": "後悔した。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Positive", "scale": "acquiescence",
+            "en": "It felt like a rich experience.",
+            "ja": "良い経験であると感じた。"
+        },
+        {
+            "category": "Engagement/Satisfaction", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt that I could have done more useful things.",
+            "ja": "ゲームをしなければ、もっと他に有用なことができたと感じた。"
+        },
+        {
+            "category": "Originality", "type": "Positive", "scale": "acquiescence",
+            "en": "I think the game is unique or original.",
+            "ja": "今回のゲームは独創的だと思う。"
+        },
+        {
+            "category": "Originality", "type": "Negative", "scale": "acquiescence",
+            "en": "It didn't make an impression on me.",
+            "ja": "ゲームが印象的だとは感じなかった。"
+        },
+        {
+            "category": "Creativity/freedom", "type": "Positive", "scale": "acquiescence",
+            "en": "I feel the game allows me to be imaginative.",
+            "ja": "想像力がかき立てられるのを感じた。"
+        },
+        {
+            "category": "Creativity/Freedom", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt constrained while playing the game.",
+            "ja": "ゲームをしている間、拘束されているように感じた。"
+        },
+        {
+            "category": "Creativity/Freedom", "type": "Positive", "scale": "acquiescence",
+            "en": "I played with my own rules.",
+            "ja": "自分で独自のルールを設定して遊んだ。"
+        },
+        {
+            "category": "Creativity/Freedom", "type": "Negative", "scale": "acquiescence",
+            "en": "The game doesn't give me freedom.",
+            "ja": "自由にできることが無かった。"
+        },
+        {
+            "category": "Exploration", "type": "Positive", "scale": "acquiescence",
+            "en": "I felt that I could explore things.",
+            "ja": "ゲーム内で色々と試すことができると感じた。"
+        },
+        {
+            "category": "Exploration", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt disoriented.",
+            "ja": "何をすべきかわからず混乱した。"
+        },
+        {
+            "category": "Challenge", "type": "Positive", "scale": "acquiescence",
+            "en": "I felt challenged.",
+            "ja": "やりがいがあると感じた。"
+        },
+        {
+            "category": "Challenge", "type": "Negative", "scale": "acquiescence",
+            "en": "The game was difficult.",
+            "ja": "難しいと感じた。"
+        },
+        {
+            "category": "Challenge", "type": "Positive", "scale": "acquiescence",
+            "en": "I wanted to do as well as possible during the game.",
+            "ja": "ゲームにおいて可能な限り色々やりたいと思った。"
+        },
+        {
+            "category": "Challenge", "type": "Negative", "scale": "acquiescence",
+            "en": "I felt pressured.",
+            "ja": "ストレスを感じた。"
+        },
+        {
+            "category": "Challenge", "type": "Positive", "scale": "acquiescence",
+            "en": "I feel the game constantly motivates me to proceed further to the next stage or level.",
+            "ja": "ゲームを進めていくにつれてやりたいという気持ちが強くなっていった。"
+        },
+        {
+            "category": "Challenge", "type": "Negative", "scale": "acquiescence",
+            "en": "The game was too easy.",
+            "ja": "簡単すぎた。"
+        },
+        {
+            "category": "Challenge", "type": "Positive", "scale": "acquiescence",
+            "en": "I challenged myself even if the game did not require it.",
+            "ja": "ゲームで求められていないことでも、自分自身で色々とチャレンジしようとした。"
+        },
+        {
+            "category": "Challenge", "type": "Negative", "scale": "acquiescence",
+            "en": "There was time when I was doing nothing in the game.",
+            "ja": "ゲーム中に何もしていない時間があった。"
+        }
+    ]
+}
